@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">StayinTouch</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_albums">Albums</string>
+    <string name="title_activity_detailed_album">DetailedAlbum</string>
+    <string name="title_activity_messages">Messages</string>
+    <string name="title_activity_friends_list">FriendsList</string>
+    <string name="title_activity_gd_view_adapter">gdViewAdapter</string>
+    <string name="title_activity_dialog">Dialog</string>
+    <string-array name="Privacy">
+        <item>Hide Album from friends</item>
+        <item>Show  Album to friends</item>
+    </string-array>
+    <string name="title_activity_photo_adapter">photoAdapter</string>
+    <string name="title_activity_slide_show">SlideShow</string>
+    <string name="title_activity_select__user">Select_User</string>
+    <string name="title_activity_list__user__adapter">list_User_Adapter</string>
+    <string name="title_activity_user_search_adapter">UserSearchAdapter</string>
+    <string name="title_activity_profile_home">profile_home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="facebook_hashKey">sLpJiWdth/8hTZkjV66EwQo6pe4=</string>
+    <string name="facebook_app_id">545059372325243</string>
+
+    <string name="twitter_API_Key">qAHzKTbzER8s5Mc5y653ldsQ9</string>
+    <string name="twitter_API_Secret">u1ahRMJ64d7e62WoLqIrH8bs99yCJxCtym5EOISGxwCBW8dy8Z</string>
+    <string name="twitter_OwnerID">4302026783</string>
+</resources>
